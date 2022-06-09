@@ -1,2 +1,5 @@
 # Internship
-Financial Applications using Java Internship Projects
+Internship Project
+
+## About
+Financial Applications using Java
